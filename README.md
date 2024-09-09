@@ -59,10 +59,4 @@ Follow these steps to build, install, and run the Newsletter Bot:
    npm start
    ```
 
-For more detailed instructions, refer to the project's documentation and feel free to explore the code to customize the tool according to your needs.
-
----
-
-*Note: Replace `https://github.com/your-repository/newsletter-bot.git` with the actual URL of your repository.*
-
 
